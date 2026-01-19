@@ -8,6 +8,9 @@ The objective is to analyze a real-world dataset using Python, SQL, and Power BI
 
 The project covers:
 
+<img width="4872" height="2656" alt="500731798-8bbd5dc9-eb6c-40c1-8f19-c08b4107f654" src="https://github.com/user-attachments/assets/dce2eede-1893-402a-abcf-b566c6c5a683" />
+
+
 Data loading and exploration
 
 Data cleaning and preprocessing
